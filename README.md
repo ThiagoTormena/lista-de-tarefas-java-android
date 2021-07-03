@@ -20,3 +20,6 @@ Alguns recursos utilizados:
  - Floating Action Button
 
 Foi utilizada a linguagem Java, e o banco de dados SQLite.
+
+Vídeo Demonstrativo:
+[![Vídeo demonstrativo do Aplicativo](https://www.youtube.com/watch?v=bYEt6nLBnJU/0.jpg)](https://www.youtube.com/watch?v=bYEt6nLBnJU)
